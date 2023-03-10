@@ -1,0 +1,89 @@
+.card {
+    text-align: center;
+    width: 80%;
+    margin: 2em .5em;
+    background-color: #ffffff;
+
+    border-radius: 10px;
+    padding: 2em .1em;
+
+    -webkit-box-shadow: -9px -5px 17px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -9px -5px 17px 11px rgba(0,0,0,0.75);
+    box-shadow: -9px -5px 17px 11px rgba(0,0,0,0.75);
+}
+
+.card .title-card {
+    margin: .4em 0;
+    font-size: 30px;
+}
+
+.card .description {
+    font-size: 24px;
+    margin-bottom: .5em;
+}
+.card .city {
+    font-size: 24px;
+    margin-bottom: 1.5em;
+}
+
+
+.btn-vermais {
+    color: #ffffff;
+    background-color: #245B9E;
+    padding: 1em;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+    transition: 2s;
+}
+.btn-vermais:hover {
+    color: #245B9E;
+    background-color: #ffffff;
+    border: 1px solid #245B9E;
+}   
+
+@media (max-width: 900px) {
+    .card {
+        width: 90%;
+    }
+}
+
+.card-complet {
+    width: 100%;
+    margin: 2em .5em;
+    background-color: #ffffff;
+    padding: 1em 3em;
+    width: 100%;
+    max-width: 700px;
+    margin: 3em auto;
+    border-radius: 10px;
+
+    -webkit-box-shadow: -9px -5px 17px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -9px -5px 17px 11px rgba(0,0,0,0.75);
+    box-shadow: -9px -5px 17px 11px rgba(0,0,0,0.75);
+}
+
+.card-complet .title-card {
+    font-size: 35px;
+    margin-bottom: 1em;
+}
+
+.card-complet .description {
+    margin-bottom: 1em;
+    font-size: 24px;
+}
+
+.card-complet .city {
+    display: none;
+}
+
+.contatos p {
+    font-size: 21px;
+    margin-bottom: .5em;
+}
+
+.contatos h4 {
+    margin-bottom: .5em;
+    font-size: 24px;
+}

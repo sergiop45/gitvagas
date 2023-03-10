@@ -1,0 +1,14 @@
+.cadastrar-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.cadastrar-page h2 {
+    margin-bottom: 2em;
+}
