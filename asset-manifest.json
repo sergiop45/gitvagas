@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitvagas/static/css/main.0569d520.css",
+    "main.js": "/gitvagas/static/js/main.22c60d7d.js",
+    "static/js/787.bd5a13a5.chunk.js": "/gitvagas/static/js/787.bd5a13a5.chunk.js",
+    "static/media/default_transparent_765x625.png": "/gitvagas/static/media/default_transparent_765x625.3146180d634ab0053d65.png",
+    "index.html": "/gitvagas/index.html",
+    "main.0569d520.css.map": "/gitvagas/static/css/main.0569d520.css.map",
+    "main.22c60d7d.js.map": "/gitvagas/static/js/main.22c60d7d.js.map",
+    "787.bd5a13a5.chunk.js.map": "/gitvagas/static/js/787.bd5a13a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0569d520.css",
+    "static/js/main.22c60d7d.js"
+  ]
+}
